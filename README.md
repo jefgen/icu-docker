@@ -5,6 +5,8 @@
 This is a set of dockerfiles and a Makefile to develop with ICU (against Ubuntu, Fedora, anything else you can run from docker).
 It sets up `ccache` to share cached compiler output in `./tmp/.ccache` and expects an ICU source directory under `./src/icu`
 
+Hello World.
+
 
 ## Usage
 
